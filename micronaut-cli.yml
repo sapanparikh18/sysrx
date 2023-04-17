@@ -1,0 +1,6 @@
+applicationType: cli
+defaultPackage: co.incubyte
+testFramework: junit
+sourceLanguage: java
+buildTool: gradle
+features: [annotation-api, app-name, assertj, data, data-jpa, gradle, h2, jackson-databind, java, jdbc-hikari, junit, logback, micronaut-build, picocli, picocli-java-application, picocli-junit, readme, shade, yaml]
