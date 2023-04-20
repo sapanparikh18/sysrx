@@ -23,7 +23,7 @@ dependencies {
     runtimeOnly("com.h2database:h2")
     testImplementation("org.assertj:assertj-core")
     implementation("io.micronaut:micronaut-validation")
-
+    implementation 'com.github.jsqlparser:jsqlparser:4.6'
     testImplementation("io.micronaut:micronaut-http-client")
 
 }
