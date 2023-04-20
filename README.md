@@ -12,7 +12,7 @@ Given access to the database, this tool will generate a documentation of
   - Type of queries
   - Where clause
 - Queries
-    `- Tables accessed by the query
+    - Tables accessed by the query
     - Where clause
     - Group by clause
     - Order by clause
